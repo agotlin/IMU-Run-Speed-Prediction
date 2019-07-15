@@ -1,5 +1,5 @@
 # Running Speed Prediction Using Lumo Run IMU
-Code repository for Lumo Run project
+Code repository for Lumo Run running speed prediction project
 
 ## Insructions
 
